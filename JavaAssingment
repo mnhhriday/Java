@@ -39,5 +39,21 @@
 
 
 
-}
+//}
+//public class Main{
+//
+//    public static void main(String[] args){
+//        String text="Hello world";
+//        char ch=text.charAt(6);
+//        System.out.println(ch);
+//        byte[] bytes=text.getBytes();
+//        System.out.println("Bytes");
+//        for(byte b:bytes){
+//            System.out.println(b);
+//        }
+//
+//    }
+//
+//
+//}
 
