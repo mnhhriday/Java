@@ -51,7 +51,8 @@
 //        for(byte b:bytes){
 //            System.out.println(b);
 //        }
-//
+//       int index= text.indexOf("Hello");
+//        System.out.println(index);
 //    }
 //
 //
