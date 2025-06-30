@@ -57,4 +57,23 @@
 //
 //
 //}
+//public class Main{
+//
+//    public static void main(String[] args){
+//        String a="Hello";
+//        String b="hello";
+//        String c=" java ";
+//        System.out.println(a.compareTo(b));
+//        System.out.println(a.compareToIgnoreCase(b));
+//        System.out.println(c.trim());
+//        String name="Rakib";
+//        int age=25;
+//        String info=String.format("%s, %d", name,age);
+//        System.out.println(info);
+//        String text="java is hard";
+//        String[] words=text.split("");
+//        System.out.println( words[0]);
+//
+//    }
+//}
 
