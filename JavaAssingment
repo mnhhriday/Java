@@ -76,4 +76,23 @@
 //
 //    }
 //}
-
+public class Main{
+//    public static void main(String[] args){
+//        String name="JAVA";
+//        System.out.println(name.toUpperCase());
+//        System.out.println(name.toLowerCase());
+//        int number=123;
+//        String stnum=String.valueOf(number);
+//        System.out.println(stnum);
+//        char[] letters=name.toCharArray();
+//        System.out.println("Character");
+//        for(char ch:letters){
+//            System.out.println(ch);
+//            String email="mnh@gmail.com";
+//            boolean valid=email.matches(".*@gmail\\.com");
+//            System.out.println(valid);
+//        }
+//    }
+//
+//
+//}
