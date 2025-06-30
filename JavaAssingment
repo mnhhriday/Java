@@ -1,0 +1,42 @@
+//public class Main{
+//    public static void main(String[] args){
+//        String text="Hello Java";
+//        if (text.contains("Java")) {
+//            System.out.println("Found!");
+//        }
+//        else { System.out.println("not found");}
+//    }
+//
+//}
+//public class Main{
+//    public static void main(String[] args){
+//        String text ="Hello Java";
+//        String part=text.substring(6);
+//        System.out.println(part);
+//    }
+//}
+//public class Main{
+//    public static void main(String[] args) throws InterruptedException{
+//        Thread t = new Thread(() -> System.out.println("Thread running"));
+//        t.start();
+//        t.join();
+//        System.out.println("Main finished");
+//    }
+//
+//
+//}
+//public class Main{
+//    public static void main(String[] args){
+//        String text="I have a simple dream,This is what I go outside of the country";
+//        String replaced=text.replace("I","you");
+//        System.out.println( replaced);
+//        String replacedAll=text.replaceAll("I\\s","Rakib");
+//        System.out.println(  replacedAll);
+//        String replacedFirst=text.replaceFirst("I","You");
+//        System.out.println( replacedFirst);
+//    }
+
+
+
+
+}
